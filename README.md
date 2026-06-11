@@ -1,7 +1,6 @@
 # David Chuev
 
-Economics student at Paris 1 Panthéon-Sorbonne, interested in quantitative finance and risk.
-
+Quantitative developer focused on financial modelling and ML applications. Currently studying Economics at Paris 1 Panthéon-Sorbonne.
 ---
 
 ### Projects

@@ -1,6 +1,6 @@
 # David Chuev
 
-Quantitative developer focused on financial modelling and ML applications. Currently studying Economics at Paris 1 Panthéon-Sorbonne.---
+Quantitative developer focused on financial modelling and ML applications. Currently studying Economics at Paris 1 Panthéon-Sorbonne.
 
 ### Projects
 

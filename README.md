@@ -10,9 +10,6 @@ Credit scoring API built with FastAPI and scikit-learn. SHAP-based decision expl
 **[Portfolio Optimization — Markowitz Mean-Variance](https://github.com/franzdafka/portfolio-optimization)**
 Mean-variance optimization from scratch (scipy SLSQP): efficient frontier, GMV and tangency portfolios. Applied to S&P 500 data with 10,000 Monte Carlo simulations. Sensitivity analysis: 0.5% return perturbation causes 50pp+ weight reallocation.
 
-**[Risk Management Dashboard — VaR & Stress Testing](https://github.com/franzdafka/var-risk-dashboard)**
-Three VaR methods (Historical, Parametric Delta-Normal, Monte Carlo with antithetic variates) and five historical crisis scenarios. Interactive Streamlit dashboard with rolling VaR visualization.
-
 ---
 
 ### Stack

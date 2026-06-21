@@ -5,7 +5,7 @@ Quantitative developer focused on financial modelling and ML applications. Curre
 ### Projects
 
 **[Credit Risk Assessment Service](https://github.com/franzdafka/credit-risk-analysis)**
-Credit scoring API built with FastAPI and scikit-learn. SHAP-based decision explanations, Docker deployment, automated tests. Precision 79.4%, AUC-ROC 0.674, Gini 0.348.
+Credit scoring API built with FastAPI and scikit-learn. SHAP-based decision explanations and automated tests. AUC-ROC 0.787, Gini 0.574.
 
 **[Portfolio Optimization — Markowitz Mean-Variance](https://github.com/franzdafka/portfolio-optimization)**
 Mean-variance optimization from scratch (scipy SLSQP): efficient frontier, GMV and tangency portfolios. Applied to S&P 500 data with 10,000 Monte Carlo simulations. Sensitivity analysis: 0.5% return perturbation causes 50pp+ weight reallocation.

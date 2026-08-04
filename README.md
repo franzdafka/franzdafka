@@ -9,6 +9,9 @@ Credit scoring service benchmarking four ML models on the German Credit Dataset,
 **[Portfolio Optimization — Markowitz Mean-Variance](https://github.com/franzdafka/portfolio-optimization)**
 Mean-variance optimization from scratch (scipy SLSQP): efficient frontier, GMV and tangency portfolios, concentration limits, and Black-Litterman return blending. Applied to real S&P 500 data; Black-Litterman improves Sharpe from 0.34 (uncapped) to 0.44 by stabilizing noisy return estimates rather than constraining weights.
 
+**[Palantir DCF Valuation](https://github.com/franzdafka/palantir-dcf-valuation)**
+10-year DCF on a genuinely contested high-multiple AI platform stock: Government and Commercial segments faded independently, stock-based compensation fully expensed rather than added back, WACC built bottom-up via CAPM. Bear/Base/Bull intrinsic value of $43 / $68 / $116 per share vs. a post-earnings market price of $144 — the model is built to show what the market has to be pricing in for today's valuation to hold, not to call the stock cheap or expensive.
+
 ---
 
 ### Stack
